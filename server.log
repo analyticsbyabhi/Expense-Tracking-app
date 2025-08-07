@@ -1,0 +1,9 @@
+2025-08-04 20:40:03,700 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-08-04 20:40:23,848 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-08-04 20:45:01,712 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-08-04 20:45:24,338 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-01
+2025-08-04 20:45:50,511 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-01
+2025-08-04 20:47:30,304 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-01
+2025-08-04 20:56:41,240 - db_helper - INFO - delete_expenses_for_date called with 2024-08-28
+2025-08-04 20:56:41,257 - db_helper - INFO - insert_expense called with date: 2024-08-28, amount: 1200.0, category: Shopping, notes: bought new voda
+2025-08-04 20:56:41,291 - db_helper - INFO - insert_expense called with date: 2024-08-28, amount: 150.0, category: Food, notes: Kachori
